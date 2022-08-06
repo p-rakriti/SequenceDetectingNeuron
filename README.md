@@ -11,7 +11,7 @@ In order to achieve this, neurons in the brain process movement in a particular
 direction as a series of sequential inputs. As time passes, they perceive the
 changing position of the movement as a sequence in space. Only if the (x+ 1)th
 coordinate is reached after the xth coordinate is the object said to be moving
-in a certain direction along the ⃗x. Correspondingly, only if the (x+ 1)th neuron
+in a certain direction along the x direction. Correspondingly, only if the (x+ 1)th neuron
 fires after the xth neuron is input deemed to be sequential.
 
 Here it is done using the software MOOSE developed by Prof. Upinder Bhalla, NCBS - https://moose.ncbs.res.in/ .
