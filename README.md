@@ -14,7 +14,7 @@ coordinate is reached after the xth coordinate is the object said to be moving
 in a certain direction along the ⃗x. Correspondingly, only if the (x+ 1)th neuron
 fires after the xth neuron is input deemed to be sequential.
 
-Here it is done using the software MOOSE developed by Prof. Upinder Bhalla, NCBS - https://moose.ncbs.res.in/
+Here it is done using the software MOOSE developed by Prof. Upinder Bhalla, NCBS - https://moose.ncbs.res.in/ .
 SeqSynHandler is the class in MOOSE that handles sequential input.
 
 An LIF neuron is assigned a kernel of the given form and is found to be sequence selective, or only a particular sequence causes the membrane potential to
